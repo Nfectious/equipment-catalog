@@ -9,8 +9,7 @@ const machines = [
   { model: 'Caterpillar 310', weight: '10000kg', size: '6.0x2.5x3.0m', price: '$59,999', image: 'Cat310_Excavator_02.jpg' },
   { model: 'Andeli MIG-250ME LED 110V/220', weight: 'N/A', size: 'IGBT MIG Welder', price: '$199', image: 'welder.jpg' },
   { model: '52cc Chainsaw Gasoline', weight: 'N/A', size: '20in', price: '$189', image: '52cc.jpg' },
-  { model: 'Exclusive 4K Thermal Dual-use', weight: 'N/A', size: 'Thermal Infrared and Night Vision', price: '$699', image: 'Thermal.jpg' }
-];
+  { model: 'Exclusive 4K Imfrared', weight: 'N/A', size: 'Thermal and Night Vision', price: '$699', image: 'Thremal.jpg' }];
 
 const container = document.getElementById("catalog");
 
